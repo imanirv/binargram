@@ -46,7 +46,7 @@ const LoginContainer = () =>{
 
     return(
         <NoAuthProvider>
-            <div className="bg-slate-900">
+            <div className="bg-black">
                 <main className='p-3 text-gray-200 h-screen max-w-md mx-auto flex flex-col space-y-3 justify-center items-center'>
                     <div className="w-full">
                         <div className="w-full py-5">
